@@ -2,9 +2,9 @@
 
 **A simple customer follow-up app for small businesses.**
 
-ClientCare helps businesses keep customer records organized, track visits, and notice when a customer may be due for a follow-up.
+ClientCare helps small businesses organize customer records, track visits, and manage follow-ups.
 
-🔗 **[Try the live demo](https://clientcareapp.netlify.app/)**
+🔗 [**Try the live demo**](https://clientcareapp.netlify.app/)
 
 ## ✨ Features
 
@@ -12,18 +12,24 @@ ClientCare helps businesses keep customer records organized, track visits, and n
 - 📅 Track customer visits and activity
 - ⏰ Set follow-up intervals
 - 📝 Log calls, messages, and other outreach
-- 📈 Review customer activity and follow-up results
+- 📈 Review customer activity and follow-up history
 - 💻 Use the Windows desktop app with customer files stored locally
 
 ## 👥 Who is it for?
 
-ClientCare is designed for barbershops and other small businesses that serve returning customers and want a straightforward way to keep track of follow-ups.
+ClientCare is designed for barbershops and other small businesses with returning customers who want a straightforward way to manage follow-ups.
 
 ## 🧪 Try the demo
 
-The live demo lets you explore the basic workflow in your browser using sample customer data. You can try it without installing the Windows app.
+Explore the basic workflow in your browser using sample customer data. No installation is needed.
 
-**[Open the ClientCare demo](https://clientcareapp.netlify.app/)**
+[**Open the ClientCare demo**](https://clientcareapp.netlify.app/)
+
+## 🛒 Get the Windows app
+
+Interested in the Windows desktop app? Visit the ClientCare website for current availability and purchase information.
+
+[**Visit the ClientCare website**](https://clientcareapp.netlify.app/)
 
 ## 🔎 How follow-up status works
 
@@ -31,10 +37,18 @@ ClientCare uses visit timing and the follow-up interval you set to highlight cus
 
 ## 🛡️ Privacy
 
-The Windows desktop app is designed to work with customer files stored on your computer. It does not require a ClientCare account or server.
+The Windows desktop app is designed to store customer files on your computer and does not require a ClientCare account.
 
 Use fictional sample data in screenshots and demos. Don’t upload real customer information to this repository.
 
 ## 🤖 Built with AI-assisted vibe coding
 
-I developed ClientCare with AI assistance, using vibe coding to turn an idea into a working app. I guided the product
+I developed ClientCare with AI assistance, using vibe coding to turn an idea into a working app. I guided the product direction, tested how it behaves, and decided what it should and shouldn’t do, while AI helped write and refine the code.
+
+## 🧰 Built with
+
+- Python and Tkinter
+- pandas and openpyxl for Excel and CSV files
+- tkinterdnd2 for drag and drop
+- Pillow for icon generation
+- PyInstaller and Inno Setup for packaging
